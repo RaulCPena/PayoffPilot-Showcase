@@ -63,7 +63,7 @@ PayoffPilot combines proven debt elimination strategies (Snowball and Avalanche 
 - Previously worked on financial technology applications
 - Advocates for privacy-first, user-centric design
 
-**Contact**: [raul@bigbeardapps.com](mailto:raul@bigbeardapps.com)
+**Contact**: [support@bigbeardapps.com](mailto:support@bigbeardapps.com)
 
 ---
 
@@ -226,16 +226,16 @@ PayoffPilot combines proven debt elimination strategies (Snowball and Avalanche 
 
 ### Press Inquiries
 **Raul Pena** - Founder & CEO  
-📧 [press@bigbeardapps.com](mailto:press@bigbeardapps.com)  
+📧 [support@bigbeardapps.com](mailto:support@bigbeardapps.com)  
 📱 Available for interviews and demos  
 🕐 Response time: Within 24 hours  
 
 ### Review Copies & Beta Access
-📧 [beta@bigbeardapps.com](mailto:beta@bigbeardapps.com)  
+📧 [support@bigbeardapps.com](mailto:support@bigbeardapps.com)  
 *TestFlight invitations available for journalists and reviewers*
 
 ### Partnership Inquiries
-📧 [partnerships@bigbeardapps.com](mailto:partnerships@bigbeardapps.com)  
+📧 [support@bigbeardapps.com](mailto:support@bigbeardapps.com)  
 *Open to collaborations with financial institutions and fintech companies*
 
 ---
@@ -345,8 +345,8 @@ PayoffPilot is a comprehensive iOS application that empowers users to eliminate 
 
 ---
 
-*This press kit is updated regularly. For the latest information and assets, visit [payoffpilot.app/press](https://payoffpilot.app/press) or contact [press@bigbeardapps.com](mailto:press@bigbeardapps.com).*
+*This press kit is updated regularly. For the latest information and assets, contact [support@bigbeardapps.com](mailto:support@bigbeardapps.com).*
 
 **Last Updated**: October 22, 2025  
-**Press Contact**: Raul Pena - [press@bigbeardapps.com](mailto:press@bigbeardapps.com)  
-**Download Press Kit**: [payoffpilot.app/press-kit.zip](https://payoffpilot.app/press-kit.zip)
+**Press Contact**: Raul Pena - [support@bigbeardapps.com](mailto:support@bigbeardapps.com)  
+**GitHub Repository**: [github.com/RaulCPena/PayoffPilot-Showcase](https://github.com/RaulCPena/PayoffPilot-Showcase)

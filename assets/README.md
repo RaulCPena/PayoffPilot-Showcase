@@ -222,9 +222,7 @@ Examples:
 
 Need a specific asset or custom size? Contact us:
 
-- **General Requests**: [assets@bigbeardapps.com](mailto:assets@bigbeardapps.com)
-- **Press Inquiries**: [press@bigbeardapps.com](mailto:press@bigbeardapps.com)
-- **Partnership Materials**: [partnerships@bigbeardapps.com](mailto:partnerships@bigbeardapps.com)
+- **All Requests**: [support@bigbeardapps.com](mailto:support@bigbeardapps.com)
 
 ---
 
@@ -232,4 +230,4 @@ Need a specific asset or custom size? Contact us:
 
 **Last Updated**: October 22, 2025  
 **Asset Manager**: Raul Pena  
-**Contact**: [assets@bigbeardapps.com](mailto:assets@bigbeardapps.com)
+**Contact**: [support@bigbeardapps.com](mailto:support@bigbeardapps.com)

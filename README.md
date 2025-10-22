@@ -203,7 +203,7 @@ PayoffPilot is currently in beta testing! We're looking for users who:
 - Can provide feedback on features and usability
 - Test on various iPhone models and iOS versions
 
-**[Request Beta Access →](mailto:beta@bigbeardapps.com)**
+**[Request Beta Access →](mailto:support@bigbeardapps.com)**
 
 ### What Beta Testers Are Saying
 > *"Finally, a debt app that actually motivates me! Seeing the comparison between methods was eye-opening."* - Sarah K.
@@ -254,7 +254,7 @@ Expand into a **comprehensive financial wellness platform**:
 - **Background**: Software engineer with passion for personal finance
 - **Mission**: Help people achieve financial freedom through better tools
 - **Approach**: User-first design meets mathematical precision
-- **Contact**: [raul@bigbeardapps.com](mailto:raul@bigbeardapps.com)
+- **Contact**: [support@bigbeardapps.com](mailto:support@bigbeardapps.com)
 
 ### Why I Built PayoffPilot
 *"After helping friends with debt payoff spreadsheets for years, I realized there had to be a better way. Most apps either oversimplify the math or overwhelm users with complexity. PayoffPilot bridges that gap - it's as accurate as a spreadsheet but as motivating as a game."*
@@ -265,17 +265,17 @@ Expand into a **comprehensive financial wellness platform**:
 
 ### For Users
 - **Email**: [support@bigbeardapps.com](mailto:support@bigbeardapps.com)
-- **Website**: [payoffpilot.app](https://payoffpilot.app)
-- **Beta Testing**: [beta@bigbeardapps.com](mailto:beta@bigbeardapps.com)
+- **Website**: [payoffpilot.app](https://payoffpilot.app) *(coming soon)*
+- **Beta Testing**: [support@bigbeardapps.com](mailto:support@bigbeardapps.com)
 
 ### For Press & Partnerships
 - **Press Kit**: [Download Press Kit →](press-kit/)
-- **Media Contact**: [press@bigbeardapps.com](mailto:press@bigbeardapps.com)
-- **Business Inquiries**: [business@bigbeardapps.com](mailto:business@bigbeardapps.com)
+- **Media Contact**: [support@bigbeardapps.com](mailto:support@bigbeardapps.com)
+- **Business Inquiries**: [support@bigbeardapps.com](mailto:support@bigbeardapps.com)
 
 ### For Developers
-- **Technical Questions**: [dev@bigbeardapps.com](mailto:dev@bigbeardapps.com)
-- **API Partnerships**: [api@bigbeardapps.com](mailto:api@bigbeardapps.com)
+- **Technical Questions**: [support@bigbeardapps.com](mailto:support@bigbeardapps.com)
+- **Partnership Inquiries**: [support@bigbeardapps.com](mailto:support@bigbeardapps.com)
 
 ---
 

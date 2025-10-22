@@ -461,4 +461,4 @@ Build the most intuitive, accurate, and motivating debt payoff tool that empower
 **Last Review**: October 22, 2025  
 **Next Review**: November 22, 2025  
 **Owner**: Raul Pena / Big Beard Apps  
-**Contact**: [roadmap@bigbeardapps.com](mailto:roadmap@bigbeardapps.com)
+**Contact**: [support@bigbeardapps.com](mailto:support@bigbeardapps.com)

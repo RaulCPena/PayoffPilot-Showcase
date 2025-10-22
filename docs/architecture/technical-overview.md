@@ -485,4 +485,4 @@ PayoffPilot/
 
 **Last Updated**: October 22, 2025  
 **Technical Lead**: Raul Pena  
-**Contact**: [tech@bigbeardapps.com](mailto:tech@bigbeardapps.com)
+**Contact**: [support@bigbeardapps.com](mailto:support@bigbeardapps.com)
