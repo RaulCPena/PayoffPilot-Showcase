@@ -1,0 +1,63 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Cache directories
+node_modules/
+.cache/
+.npm/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Build outputs
+dist/
+build/
+out/
+
+# Asset working files (keep exports, not source files)
+*.sketch
+*.fig
+*.psd
+*.ai
+*.indd
+
+# Video source files (keep compressed exports)
+*.mov
+*.avi
+*.mkv
+assets/videos/source/
+
+# Large files that should be hosted elsewhere
+*.zip
+*.tar.gz
+*.dmg
+*.pkg
+
+# Personal notes and drafts
+notes/
+drafts/
+todo.txt
+scratch.md
